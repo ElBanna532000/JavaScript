@@ -45,6 +45,7 @@ console.log(movies2);
 console.log(movies[movies.length-1]);
 console.log(movies.slice(-1));
 console.log(movies.pop());
+movies.unshift("Spiderman 3");
 
 // ====================== Longest Word ======================
 console.log("====================== Longest Word ======================");
